@@ -1,0 +1,7 @@
+# Keep the recorded source checksums stable across checkouts.
+*.py text eol=lf
+check_data.py text eol=crlf
+policy_loader.py text eol=crlf
+rag.py text eol=crlf
+rag_tool.py text eol=crlf
+university_it_policies.txt text eol=crlf
